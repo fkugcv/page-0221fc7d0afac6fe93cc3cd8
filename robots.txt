@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--linkcube-m80nz655a.com/sitemap.xml
